@@ -1,60 +1,63 @@
-<h1 align="center">Hi there 👋, I'm Zeyad Ahmed</h1>
-<h3 align="center">Junior Data Scientist & ML Engineer 🚀 | Turning Data into Decisions 📊</h3>
+<h1 align="center">Hi 👋, I'm Zeyad Ahmed</h1>
+<h3 align="center">AI & Data Science Engineer | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Data+Scientist+%7C+ML+Engineer;Turning+Data+into+Business+Impact;Python%2C+SQL%2C+TensorFlow%2C+MLflow;Always+Learning+%F0%9F%93%9A%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7AB0A&size=24&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+%7C+Deep+Learning+Enthusiast;Lifelong+Learner+%7C+Problem+Solver" />
 </p>
 
 ---
 
-### 🧠 About Me:
-- 🎓 **AI Student** at Beni-Suef National University
-- 🔬 Passionate about **AI, Machine Learning, NLP**, and **Statistical Analysis**
-- 🚀 Built & deployed ML models for real-world problems using **Python, TensorFlow, Scikit-learn**
-- 🤖 Experience in **MLOps tools**: MLflow, Hugging Face, model deployment
-- 🧠 Constant learner who loves exploring **new AI trends**
+### 🚀 About Me
+- 🎓 AI & Machine Learning Engineer | Data Analyst
+- 💻 Skilled in Python, ML, Deep Learning, NLP, Data Analysis
+- 🎯 Passionate about solving real-world problems using data
+- 📚 Constantly learning and growing in the field of Data Science
 
 ---
 
-### 🚀 Tech Stack:
-
-| AI/ML | Data Tools | Languages | Deployment | Collaboration |
-|---|---|---|---|---|
-| `TensorFlow` | `Pandas` | `Python` | `MLflow` | `Git` |
-| `Scikit-learn` | `Seaborn` | `SQL` | `Streamlit` | `GitHub` |
-| `Hugging Face` | `Matplotlib` | `OOP` | `Dash` | `Notion` |
-
----
-
-### 📈 GitHub Stats:
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Zeyad-Ahmed-Mostaga&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeyad-Ahmed-Mostaga&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 📚 Certificates:
-- 🎓 IBM Data Scientist – Coursera
-- 📊 Associate Data Scientist in Python - DataCamp 
-- 📊 Data Analyst with Python – DataCamp  
-- 🤖 Deep Learning – DeepLearning.AI  
-- 🧪 Machine Learning Specialization – Andrew Ng
+### 🏅 Certificates
 
----
+- 🧾 **Associate Data Scientist in Python** - [DataCamp](https://www.datacamp.com)
+  <img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FFAA"/>
 
-### 🔗 Let's Connect:
 
-<p align="left">
-  <a href="mailto:ziada00700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/zeyad-ahmed-ab9595250"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Zeyad-Ahmed-Mostaga"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:ziada00700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/zeyad-ahmed-ab9595250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Zeyad-Ahmed-Mostaga"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-### ⚡ Fun Fact:
-> I use AI to solve real-life problems and make an impact 🌍.  
-> Let's build something amazing together! 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeyad-Ahmed-Mostaga&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeyad-Ahmed-Mostaga&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyad-Ahmed-Mostaga&layout=compact&theme=radical" />
+</p>
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+  <br>
+  <i>“Data is the new oil, but it’s crude without analysis.”</i>
+</p>
