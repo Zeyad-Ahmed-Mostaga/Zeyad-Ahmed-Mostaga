@@ -34,8 +34,24 @@
 
 ### 🏅 Certificates
 
-- 🧾 **Associate Data Scientist in Python** - [DataCamp](https://www.datacamp.com)
-  <img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FFAA"/>
+- 🧠 **AI & Data Science** – _IBM Data Scientist_
+  <br><img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=IBM&logoColor=white"/>
+
+- 🇪🇬 **Digital Egypt Pioneers Initiative (DEPI)** – _Ministry of Communications and Information Technology_
+  <br><img src="https://img.shields.io/badge/DEPI-Egypt-FFDD00?style=for-the-badge&logo=gov&logoColor=black"/>
+
+- 🧾 **Associate Data Scientist in Python** – [DataCamp](https://www.datacamp.com)
+  <br><img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FFAA"/>
+
+- 📈 **Machine Learning Specialization** – [DeepLearning.AI](https://www.deeplearning.ai)
+  <br><img src="https://img.shields.io/badge/Machine%20Learning-DeepLearning.AI-072AC8?style=for-the-badge&logo=deeplearningdotai&logoColor=white"/>
+
+- 🧠 **Deep Learning** – [DeepLearning.AI](https://www.deeplearning.ai)
+  <br><img src="https://img.shields.io/badge/Deep%20Learning-DeepLearning.AI-FF6F61?style=for-the-badge&logo=deeplearningdotai&logoColor=white"/>
+
+- 📊 **Data Analyst with Python** – [DataCamp](https://www.datacamp.com)
+  <br><img src="https://img.shields.io/badge/Data%20Analyst%20with%20Python-DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FFAA"/>
+
 
 
 ### 📫 Connect with Me
