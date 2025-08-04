@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me:
-- 🎓 **AI Student** at Beni-Suef National University – GPA: 3.47
+- 🎓 **AI Student** at Beni-Suef National University
 - 🔬 Passionate about **AI, Machine Learning, NLP**, and **Statistical Analysis**
 - 🚀 Built & deployed ML models for real-world problems using **Python, TensorFlow, Scikit-learn**
 - 🤖 Experience in **MLOps tools**: MLflow, Hugging Face, model deployment
